@@ -63,9 +63,9 @@
     <h1 align="center">STATS</h1>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skant-2000&show_icons=true&locale=en&layout=compact"
-            alt="akash-chowrasia" width="410" height="200px" />
+            alt="suryakant" width="410" height="200px" />
         &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=skant-2000&show_icons=true&locale=en"
-            alt="akash-chowrasia" width="410" height="200px" />
+            alt="suryakant" width="410" height="200px" />
     </p>
     <br />
     <br />
