@@ -1,5 +1,4 @@
-<body style="background-color:black; color: white;">
-    <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" /></p>
+   <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" /></p>
     <hr />
     <br />
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suryakant</h1>
@@ -49,8 +48,8 @@
             style="height: 4rem; margin-right: 1rem" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
             style="height:4rem; background-color:white; margin-right: 1rem" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-            style="height: 4rem; background-color: white; margin-right: 1rem" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+            style="height: 4rem; background-color:white; margin-right: 1rem" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
             style="height: 4rem; margin-right: 1rem" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
@@ -76,4 +75,3 @@
         <a href="https://www.linkedin.com/in/suryakant-1085b3171/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
         <a href="mailto:suryakant2125@outlook.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
     </p>
-</body>
