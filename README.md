@@ -14,7 +14,9 @@
         <img src="https://img.shields.io/badge/Lives-India-success" />
         <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
     </p>
-    <p align="center" ><a href="https://drive.google.com/file/d/1tJSs7Q7nAKaW8JLgINpwjdmy_H_vrAUS/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Resume-blue" /></a></p>
+    <p align="center" ><a href="https://drive.google.com/file/d/1tJSs7Q7nAKaW8JLgINpwjdmy_H_vrAUS/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Resume-blue" /></a>
+<a href="https://suryakantportfolio.netlify.app/"><img src="https://img.shields.io/badge/Watch-Portfolio-blue" /></a>
+</p>
     <br />
     <br />
     <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
