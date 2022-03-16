@@ -29,6 +29,7 @@
     ✔ I’m looking for an opportunity where I can use my technical skills and passion to create something better for the
     world<br>
     ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Node.js, Express.js, MongoDB, Data Structure, Algorithms
+    ✔ My Interest is to listen to music
     <br />
     <br />
     <br />
