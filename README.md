@@ -28,9 +28,8 @@
     ✔ I’m looking to collaborate on project which makes life easier<br>
     ✔ I’m looking for an opportunity where I can use my technical skills and passion to create something better for the
     world<br>
-    ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Node.js, Express.js, MongoDB, Data Structure, Algorithms
+    ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Node.js, Express.js, MongoDB, Data Structure, Algorithms<br />
     ✔ My Interest is to listen to music
-    <br />
     <br />
     <br />
     <br />
@@ -60,7 +59,6 @@
     <br />
     <br />
     <br />
-    <br />
     <h1 align="center">STATS</h1>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skant-2000&show_icons=true&locale=en&layout=compact"
@@ -68,7 +66,6 @@
         &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=skant-2000&show_icons=true&locale=en"
             alt="suryakant" width="410" height="200px" />
     </p>
-    <br />
     <br />
     <br />
     <br />
