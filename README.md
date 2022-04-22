@@ -3,7 +3,7 @@
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suryakant</h1>
     <p align="center">
         <em>
-            Aspiring <b>Full-Stack Web Developer</b> at <a href="https://www.masaischool.com/"> <b>Masai School</b></a>,
+            Aspiring <b>Front-end Web Developer</b> at <a href="https://www.masaischool.com/"> <b>Masai School</b></a>,
             bengaluru.
         </em>
     </p>
@@ -23,12 +23,11 @@
     <br />
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b
         style="font-size: 25px;">About me </b><br /><br />
-    ✔ I’m a full-stack web developer<br>
-    ✔ I’m currently Learning MERN Stack<br>
+    ✔ I’m a front-end web developer<br>
     ✔ I’m looking to collaborate on project which makes life easier<br>
     ✔ I’m looking for an opportunity where I can use my technical skills and passion to create something better for the
     world<br>
-    ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Node.js, Express.js, MongoDB, Data Structure, Algorithms<br />
+    ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Data Structure, Algorithms<br />
     ✔ My Interest is to listen to music
     <br />
     <br />
@@ -46,12 +45,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             style="height: 4rem; margin-right: 1rem" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-            style="height: 4rem; margin-right: 1rem" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-            style="height:4rem; background-color:white; margin-right: 1rem" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
-            style="height: 4rem; background-color:white; margin-right: 1rem" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
             style="height: 4rem; margin-right: 1rem" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
             style="height: 4rem" />
