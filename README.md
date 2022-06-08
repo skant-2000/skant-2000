@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Lives-India-success" />
         <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
     </p>
-    <p align="center" ><a href="https://drive.google.com/file/d/1xEWbPAaTAxeRWQeAWqfgTRqiXEe1283u/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Resume-blue" /></a>
+    <p align="center" ><a href="https://drive.google.com/file/d/1VIvbsPbYIj5WIK7fbEkLD05lUjghAmVS/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Resume-blue" /></a>
 <a href="https://suryakantportfolio.netlify.app/"><img src="https://img.shields.io/badge/Watch-Portfolio-blue" /></a>
 </p>
     <br />
