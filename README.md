@@ -1,6 +1,6 @@
    <p align="center"><img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" /></p>
     <hr />
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Suryakant</h1>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Suryakant</h1>
     <p align="center">
         <em>
             Aspiring <b>Front-end Web Developer</b> at <a href="https://www.masaischool.com/"> <b>Masai School</b></a>,
@@ -21,7 +21,7 @@
     <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
     <br />
     <br />
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;<b
         style="font-size: 25px;">About me </b><br /><br />
     ✔ I’m a front-end web developer<br>
     ✔ I’m looking to collaborate on project which makes life easier<br>
