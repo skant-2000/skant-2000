@@ -25,8 +25,7 @@
         style="font-size: 25px;">About me </b><br /><br />
     ✔ I’m a front-end web developer<br>
     ✔ I’m looking to collaborate on project which makes life easier<br>
-    ✔ I’m looking for an opportunity where I can use my technical skills and passion to create something better for the
-    world<br>
+    ✔ I’m looking for an opportunity where I can use my technical skills and passion to create something better for the world<br>
     ✔ Ask me about HTML, CSS, JavaScript, REACT, REDUX, Data Structure, Algorithms<br />
     ✔ I know how to google things<br>
     ✔ My Interest is to listen to music
